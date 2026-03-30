@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Wire up Materials & Textures mood board on designer brief page
 **Mar 29** — `interior-designer-portfolio`: Fix login page logo missed in terracotta rebrand
 **Mar 29** — `interior-designer-portfolio`: Add Vercel protection bypass header to iOS shortcut docs
 **Mar 29** — `interior-designer-portfolio`: Fix roadmap milestone spanning: left/right resize, no overlap, no cap
