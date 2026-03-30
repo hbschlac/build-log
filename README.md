@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Bulletproof save verification: server reads back KV + checks blob before returning success
 **Mar 29** — `interior-designer-portfolio`: Make G logo more dynamic with richer gradient and depth
 **Mar 29** — `interior-designer-portfolio`: Make Start Here banner bold navy with terracotta designer badge
 **Mar 29** — `interior-designer-portfolio`: Current Home photos page, floor plan sidebar integration, gallery UX improvements
