@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Table: sticky headers/cols, resizable widths, Stack Rank; Roadmap: priority badge label
 **Mar 29** — `libby-hold-monitor`: security: remove hardcoded Google API key from render.yaml
 
 **Mar 29** — Overhauled GitHub profile: profile README, bio, pins, private contributions enabled, `libby-hold-monitor` made public
