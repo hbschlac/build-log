@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `libby-hold-monitor`: security: remove hardcoded Google API key from render.yaml
 
 **Mar 29** — Overhauled GitHub profile: profile README, bio, pins, private contributions enabled, `libby-hold-monitor` made public
 **Mar 29** — `muse-shopping`: Gmail API receipt parsing live — every order cross-retailer now makes next recommendation smarter
