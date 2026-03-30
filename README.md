@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Current Home photos page, floor plan sidebar integration, gallery UX improvements
 **Mar 29** — `interior-designer-portfolio`: Feature round 4: multi-select filters, source URL, roadmap spanning, floor plan improvements
 **Mar 29** — `interior-designer-portfolio`: Add milestone groups/clusters (Feature 3)
 **Mar 29** — `interior-designer-portfolio`: Roadmap & Table: 9 new features
