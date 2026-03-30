@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Add house emoji favicon
 **Mar 29** — `interior-designer-portfolio`: Rebrand from sage green to warm terracotta/walnut palette
 **Mar 29** — `interior-designer-portfolio`: Fix DesignerBriefClient build error: add missing onImageClick prop
 **Mar 29** — `interior-designer-portfolio`: Bulletproof save verification: server reads back KV + checks blob before returning success
