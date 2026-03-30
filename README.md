@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Add MaterialSwatch type to lib/types.ts (fixes build)
 **Mar 29** — `interior-designer-portfolio`: Fix spanning card click + drag-drop interaction
 **Mar 29** — `interior-designer-portfolio`: Fix drag-and-drop onto months covered by spanning milestones
 **Mar 29** — `interior-designer-portfolio`: Allow typing custom room names in roadmap milestone popout
