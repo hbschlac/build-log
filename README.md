@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Fix roadmap milestone spanning: left/right resize, no overlap, no cap
 **Mar 29** — `interior-designer-portfolio`: Add Open Graph metadata for shared image links
 **Mar 29** — `interior-designer-portfolio`: Fix modal not closing due to stale closure in patchImage
 **Mar 29** — `interior-designer-portfolio`: Add house emoji favicon
