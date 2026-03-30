@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Allow typing custom room names in roadmap milestone popout
 **Mar 29** — `interior-designer-portfolio`: Rewrite shortcut notification logic: default to FAILED, require proof
 **Mar 29** — `interior-designer-portfolio`: Wire up Materials & Textures mood board on designer brief page
 **Mar 29** — `interior-designer-portfolio`: Fix login page logo missed in terracotta rebrand
