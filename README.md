@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Add Open Graph metadata for shared image links
 **Mar 29** — `interior-designer-portfolio`: Fix modal not closing due to stale closure in patchImage
 **Mar 29** — `interior-designer-portfolio`: Add house emoji favicon
 **Mar 29** — `interior-designer-portfolio`: Rebrand from sage green to warm terracotta/walnut palette
