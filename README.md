@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 29** — `interior-designer-portfolio`: Roadmap & Table: 9 new features
 **Mar 29** — `muse-shopping`: fix: correct BrandLogo props on brands slug page
 **Mar 29** — `interior-designer-portfolio`: Table: sticky headers/cols, resizable widths, Stack Rank; Roadmap: priority badge label
 **Mar 29** — `libby-hold-monitor`: security: remove hardcoded Google API key from render.yaml
