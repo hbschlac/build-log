@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 31** — `interior-designer-portfolio`: Fix upload UX: video warning, partial-batch recovery, bulk delete
 **Mar 30** — `interior-designer-portfolio`: Add 443-texture library with browsing modal and Pexels images
 **Mar 30** — `interior-designer-portfolio`: Add debug logging to /api/save for shortcut troubleshooting
 **Mar 30** — `interior-designer-portfolio`: Include verified:true in skipped responses for shortcut compatibility
