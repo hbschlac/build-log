@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Mar 31** — `interior-designer-portfolio`: Add missing files for Vercel build (useIsMobile, texture library updates)
 **Mar 31** — `interior-designer-portfolio`: Trigger Vercel redeploy for shortcut-save endpoint
 **Mar 31** — `interior-designer-portfolio`: Roadmap: double-click detail modal, description field, search bar, priority sort, room input fix
 **Mar 31** — `interior-designer-portfolio`: Rebrand color palette to match Hannah's selected colors
