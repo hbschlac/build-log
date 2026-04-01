@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: Allow /api/admin/* through auth middleware (routes have own Bearer auth)
 **Apr 01** — `interior-designer-portfolio`: Migrate image storage to Cloudflare R2 + add KV repair endpoint
 **Apr 01** — `interior-designer-portfolio`: Rebuild v3 shortcuts: remove bad getimages action, loop over Shortcut Input directly
 **Apr 01** — `interior-designer-portfolio`: Allow v3 shortcut files through auth middleware
