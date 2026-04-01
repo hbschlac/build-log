@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: Rebuild v3 shortcuts: remove bad getimages action, loop over Shortcut Input directly
 **Apr 01** — `interior-designer-portfolio`: Allow v3 shortcut files through auth middleware
 **Apr 01** — `interior-designer-portfolio`: Add signed v3 iOS shortcuts (iOS 18 multi-image fix)
 **Mar 31** — `interior-designer-portfolio`: Replace paginated "Show more" with infinite scroll in texture library
