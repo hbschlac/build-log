@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: chore: install jest, ts-jest, ts-node for unit testing
 **Apr 01** — `interior-designer-portfolio`: feat: smart stack rank, notes editor upgrades, @mention emails, author tracking
 **Apr 01** — `interior-designer-portfolio`: Add v5 shortcuts: fix JSON body + batch URL variable substitution
 **Apr 01** — `interior-designer-portfolio`: Fix 404s: resolve gallery image IDs to URLs in TaskRow
