@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: Add v8 shortcut: inline WFJSONValues to fix empty body bug
 **Apr 01** — `interior-designer-portfolio`: Add /api/admin/migrate-blob-to-r2 — re-upload Vercel Blob images to R2
 **Apr 01** — `interior-designer-portfolio`: Add debug logging to shortcut-save: capture raw body and content-type
 **Apr 01** — `interior-designer-portfolio`: chore: install jest, ts-jest, ts-node for unit testing
