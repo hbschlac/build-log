@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: Fix 404s: resolve gallery image IDs to URLs in TaskRow
 **Apr 01** — `interior-designer-portfolio`: Add v4 iOS shortcuts + update middleware public paths
 **Apr 01** — `interior-designer-portfolio`: Fix repair endpoint to detect /hz-* and /img-* absolute-path broken URLs
 **Apr 01** — `interior-designer-portfolio`: Allow /api/admin/* through auth middleware (routes have own Bearer auth)
