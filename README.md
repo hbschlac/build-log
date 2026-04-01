@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: migrate-blob-to-r2: try private URL (strip .public) to bypass CDN suspension
 **Apr 01** — `interior-designer-portfolio`: Fix migrate-blob-to-r2: use BLOB_READ_WRITE_TOKEN to bypass suspension
 **Apr 01** — `interior-designer-portfolio`: Add v8 shortcut: inline WFJSONValues to fix empty body bug
 **Apr 01** — `interior-designer-portfolio`: Add /api/admin/migrate-blob-to-r2 — re-upload Vercel Blob images to R2
