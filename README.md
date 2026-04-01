@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: Add signed v3 iOS shortcuts (iOS 18 multi-image fix)
 **Mar 31** — `interior-designer-portfolio`: Replace paginated "Show more" with infinite scroll in texture library
 **Mar 31** — `interior-designer-portfolio`: Remove 16 non-texture images and add curation scripts
 **Mar 31** — `interior-designer-portfolio`: Add missing files for Vercel build (useIsMobile, texture library updates)
