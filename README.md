@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: Add restore-and-remigrate endpoint to fix 1×1 placeholder migration
 **Apr 01** — `interior-designer-portfolio`: Add iOS Shortcut v11a/v11b — multipart form body approach
 **Apr 01** — `interior-designer-portfolio`: migrate-blob-to-r2: fetch public URL without auth headers (plain public CDN)
 **Apr 01** — `interior-designer-portfolio`: Add gallery search + cross-linking, hamburger nav, journal tags + rich text fix
