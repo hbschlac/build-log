@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 02** — `interior-designer-portfolio`: Minify Scriptable script URL — fix blank page on import
 **Apr 02** — `interior-designer-portfolio`: Add Scriptable-based Share Sheet setup + mobile upload page
 **Apr 02** — `interior-designer-portfolio`: Add v13 — hand-written XML, plutil binary, Form body + file field
 **Apr 02** — `interior-designer-portfolio`: Add purge-broken-r2 admin endpoint to remove unrecoverable broken R2 images
