@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 02** — `interior-designer-portfolio`: Rewrite install page with Copy to Clipboard approach
 **Apr 02** — `interior-designer-portfolio`: Inline .scriptable content in API route (fix Vercel fs access)
 **Apr 02** — `interior-designer-portfolio`: Serve .scriptable via API route with download headers
 **Apr 02** — `interior-designer-portfolio`: Switch to .scriptable file import (fixes blank script on import)
