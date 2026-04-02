@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 02** — `interior-designer-portfolio`: Add purge-broken-r2 admin endpoint to remove unrecoverable broken R2 images
 **Apr 02** — `interior-designer-portfolio`: Add repair-from-source admin endpoint to re-download broken R2 images from their sourceUrl
 **Apr 02** — `interior-designer-portfolio`: Add v12c/v12d — plutil round-trip (no Python plistlib)
 **Apr 02** — `interior-designer-portfolio`: Add debug-urls admin endpoint for R2 URL diagnostics
