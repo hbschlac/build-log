@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 02** — `interior-designer-portfolio`: Add v12 shortcuts — surgical modification of real wflow
 **Apr 02** — `interior-designer-portfolio`: restore-and-remigrate: add debug size check output
 **Apr 02** — `interior-designer-portfolio`: fix: add HEAD size check to skip already-remigrated images
 **Apr 01** — `interior-designer-portfolio`: restore-and-remigrate: match by blob existence, not file size
