@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 01** — `interior-designer-portfolio`: restore-and-remigrate: match by blob existence, not file size
 **Apr 01** — `interior-designer-portfolio`: Rebuild v11 shortcuts with correct plist structure
 **Apr 01** — `interior-designer-portfolio`: fix: blob pathname timestamp regex (no hyphen in pathname format)
 **Apr 01** — `interior-designer-portfolio`: restore-and-remigrate: check R2 file size to identify bad 1×1 files only
