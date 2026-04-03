@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 03** — `interior-designer-portfolio`: Add PWA share target for iOS share sheet photo upload
 **Apr 03** — `interior-designer-portfolio`: Sign SavePhotos shortcut files for iOS import
 **Apr 03** — `interior-designer-portfolio`: Add SavePhotos shortcut files for Hannah and Sam
 **Apr 03** — `interior-designer-portfolio`: Add .shortcut files, /upload, /install to public paths
