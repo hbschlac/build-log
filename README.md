@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 03** — `interior-designer-portfolio`: Add SavePhotos shortcut files for Hannah and Sam
 **Apr 03** — `interior-designer-portfolio`: Add .shortcut files, /upload, /install to public paths
 **Apr 02** — `interior-designer-portfolio`: Default to Hannah's token when no auth context available
 **Apr 02** — `interior-designer-portfolio`: Rewrite install page with Copy to Clipboard approach
