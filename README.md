@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 03** — `interior-designer-portfolio`: Wrap useSearchParams in Suspense boundary (fix build error)
 **Apr 03** — `interior-designer-portfolio`: Switch to static manifest.json with share_target support
 **Apr 03** — `interior-designer-portfolio`: Add PWA share target for iOS share sheet photo upload
 **Apr 03** — `interior-designer-portfolio`: Sign SavePhotos shortcut files for iOS import
