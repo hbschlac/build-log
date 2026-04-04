@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 04** — `interior-designer-portfolio`: Fix missing filterOwner state declaration in RoadmapView
 **Apr 04** — `interior-designer-portfolio`: Fix data loss bugs, broken roadmap features, and journal UX overhaul
 **Apr 04** — `interior-designer-portfolio`: feat: add calmar-bug-fixer skill + in-site bug report form
 **Apr 03** — `interior-designer-portfolio`: Wrap useSearchParams in Suspense boundary (fix build error)
