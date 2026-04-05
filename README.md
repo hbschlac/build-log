@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: Fix TypeScript type error: explicitly type journal author to exclude designer
 **Apr 05** — `interior-designer-portfolio`: feat: journal editor enhancements — strikethrough, tooltips, colors, mentions, stars, attachments, guest tagging
 **Apr 05** — `interior-designer-portfolio`: fix: commit missing auth.ts additions (designer accounts + share tokens)
 **Apr 05** — `interior-designer-portfolio`: feat: fix floor plan image cropping + add zoom/pan controls
