@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: Fix photo drag-drop onto floor plan: always attach drag handlers on SVG rects
 **Apr 05** — `interior-designer-portfolio`: Resolve merge conflict, keep upstream DesignerBriefClient
 **Apr 05** — `interior-designer-portfolio`: feat: drag-to-reorder tiles on Digital Mood Board
 **Apr 05** — `interior-designer-portfolio`: feat: Digital Mood Board + drag & drop upload
