@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: restore: re-apply bug-fixer types, KV key, middleware, and layout
 **Apr 05** — `interior-designer-portfolio`: fix: migrate gallery upload to use Cloudflare R2 (same as rest of app)
 **Apr 05** — `interior-designer-portfolio`: Remove Stack Rank column and smart rank legend from priorities table
 **Apr 05** — `interior-designer-portfolio`: feat: add zoom + pan to image detail modal
