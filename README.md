@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: fix: commit missing auth.ts additions (designer accounts + share tokens)
 **Apr 05** — `interior-designer-portfolio`: feat: fix floor plan image cropping + add zoom/pan controls
 **Apr 05** — `interior-designer-portfolio`: restore: re-add BugReportButton component (deleted by other session)
 **Apr 05** — `interior-designer-portfolio`: restore: re-apply bug-fixer types, KV key, middleware, and layout
