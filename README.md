@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: fix: persistent toolbar + notify button
 **Apr 05** — `interior-designer-portfolio`: Add /api/bug-report route to persist bug reports to KV
 **Apr 05** — `interior-designer-portfolio`: feat: manual notification banner + Giddins Interior Design FROM name
 **Apr 05** — `interior-designer-portfolio`: fix: use schlacter.me as Resend FROM address for journal notifications
