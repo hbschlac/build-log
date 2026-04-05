@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: fix: journal mention popover and auto-list bugs
 **Apr 05** — `interior-designer-portfolio`: debug: show full image URLs in floorplan migration endpoint
 **Apr 05** — `interior-designer-portfolio`: fix: broaden floor plan migration to catch all non-R2 image URLs + add debug output
 **Apr 05** — `interior-designer-portfolio`: fix: replace Cormorant Garamond with Poppins in BugReportButton
