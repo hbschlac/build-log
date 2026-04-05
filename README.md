@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: fix: use schlacter.me as Resend FROM address for journal notifications
 **Apr 05** — `interior-designer-portfolio`: fix: use giddins.family FROM address for journal notify emails
 **Apr 05** — `interior-designer-portfolio`: feat: admin page for managing designer accounts
 **Apr 05** — `interior-designer-portfolio`: feat: Escape key resets floor plan zoom to normal
