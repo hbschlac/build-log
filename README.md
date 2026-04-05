@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: Remove Stack Rank column and smart rank legend from priorities table
 **Apr 05** — `interior-designer-portfolio`: feat: add zoom + pan to image detail modal
 **Apr 05** — `interior-designer-portfolio`: Fix tag persistence race condition on modal close
 **Apr 04** — `interior-designer-portfolio`: Fix missing filterOwner state declaration in RoadmapView
