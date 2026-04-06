@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 05** — `interior-designer-portfolio`: fix: show error toast if notification fails + add notify logging
 **Apr 05** — `interior-designer-portfolio`: fix: sticky toolbar + auto notify banner
 **Apr 05** — `interior-designer-portfolio`: feat: Notes reliability + UX improvements
 **Apr 05** — `interior-designer-portfolio`: Remove wrapper drag handlers that caused re-render jank during pan
