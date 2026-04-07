@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 07** — `interior-designer-portfolio`: feat: add phone number login and SMS invite for designer accounts
 **Apr 07** — `interior-designer-portfolio`: feat: add gallery tag filter and journal star button for mobile
 **Apr 06** — `interior-designer-portfolio`: feat: clicking an @mention in note body re-opens notify banner
 **Apr 06** — `interior-designer-portfolio`: fix: crop tool auto-zooms and numbered list prefix applies to wrong line
