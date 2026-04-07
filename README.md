@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 07** — `interior-designer-portfolio`: Add magic link demo route for sharing with Houzz CEO
 **Apr 07** — `interior-designer-portfolio`: Resolve stash conflict in JournalClient.tsx (keep ShareDropdown)
 **Apr 07** — `interior-designer-portfolio`: fix: commit missing ShareDropdown and related uncommitted changes
 **Apr 07** — `interior-designer-portfolio`: fix: clear image size picker state when switching journal entries
