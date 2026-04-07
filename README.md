@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 06** — `interior-designer-portfolio`: feat: clicking an @mention in note body re-opens notify banner
 **Apr 06** — `interior-designer-portfolio`: fix: crop tool auto-zooms and numbered list prefix applies to wrong line
 **Apr 06** — `interior-designer-portfolio`: Add demo read-only login for Airtable application showcase
 **Apr 06** — `interior-designer-portfolio`: chore: redeploy to pick up RESEND_API_KEY env var
