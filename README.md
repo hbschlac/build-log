@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 07** — `interior-designer-portfolio`: fix: prevent bullet/numbered list auto-format from toggling off inside existing list items
 **Apr 07** — `interior-designer-portfolio`: rename Add Designer to Add User with selectable type/category
 **Apr 07** — `interior-designer-portfolio`: fix: brighten sage green in icon gradient for better visibility
 **Apr 07** — `interior-designer-portfolio`: feat: expand search to notes/annotations, add image size picker, unify icons
