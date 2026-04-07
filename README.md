@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 07** — `interior-designer-portfolio`: fix: clear image size picker state when switching journal entries
 **Apr 07** — `interior-designer-portfolio`: fix: position image size picker near the image, not below editor
 **Apr 07** — `interior-designer-portfolio`: fix: prevent bullet/numbered list auto-format from toggling off inside existing list items
 **Apr 07** — `interior-designer-portfolio`: rename Add Designer to Add User with selectable type/category
