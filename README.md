@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 07** — `interior-designer-portfolio`: fix: brighten sage green in icon gradient for better visibility
 **Apr 07** — `interior-designer-portfolio`: feat: expand search to notes/annotations, add image size picker, unify icons
 **Apr 07** — `interior-designer-portfolio`: simplify admin UI: editable password, remove auto-text buttons
 **Apr 07** — `interior-designer-portfolio`: feat: add phone number login and SMS invite for designer accounts
