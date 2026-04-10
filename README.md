@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 10** — `interior-designer-portfolio`: fix: show demo mode banner in nav, fix null note crash in gallery search
 **Apr 10** — `interior-designer-portfolio`: fix: save note on navigation away from journal page
 **Apr 07** — `interior-designer-portfolio`: Add clean /demo/:token URL rewrite (hides /api prefix)
 **Apr 07** — `interior-designer-portfolio`: Add magic link demo route for sharing with Houzz CEO
