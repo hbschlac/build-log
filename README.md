@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 12** — `hannah-portfolio`: Replace fabricated curated URLs with verified Reddit posts
 **Apr 12** — `hannah-portfolio`: Add live data verification page with spot-check audit
 **Apr 12** — `hannah-portfolio`: Fix Play Store and App Store scraper module imports
 **Apr 12** — `hannah-portfolio`: Job URL: add open button (↗) next to edit field
