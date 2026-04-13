@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 12** — `hannah-portfolio`: Fix SYNC_SECRET trim in Twitch scrape route
 **Apr 12** — `hannah-portfolio`: Fix white page on card drag-drop
 **Apr 12** — `hannah-portfolio`: Add Twitch Community Intelligence dashboard
 **Apr 12** — `hannah-portfolio`: Today's Focus: add X to dismiss tasks, remove progress bar
