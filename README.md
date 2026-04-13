@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 12** — `hannah-portfolio`: Note entries: editable inline + X to delete
 **Apr 12** — `hannah-portfolio`: Fix SYNC_SECRET trim in job-digest route
 **Apr 12** — `hannah-portfolio`: Add Kanban board UI to job tracker with search, sort, drag-and-drop, and morning digest
 **Apr 10** — `interior-designer-portfolio`: fix: show demo mode banner in nav, fix null note crash in gallery search
