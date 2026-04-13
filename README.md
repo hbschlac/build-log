@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 12** — `hannah-portfolio`: Fix Play Store and App Store scraper module imports
 **Apr 12** — `hannah-portfolio`: Job URL: add open button (↗) next to edit field
 **Apr 12** — `hannah-portfolio`: Fix SYNC_SECRET trim in Twitch scrape route
 **Apr 12** — `hannah-portfolio`: Fix white page on card drag-drop
