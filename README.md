@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 14** — `hannah-portfolio`: Add /tribe-ai gift page + job-tracker artifacts modal
 **Apr 13** — `muse-shopping`: Add Claude session status handoff doc
 **Apr 13** — `hannah-portfolio`: Fix body bg seam on workspace-ai-gaps + twitch-community
 **Apr 13** — `hannah-portfolio`: WIP checkpoint: job-tracker, twitch-community, tasks API
