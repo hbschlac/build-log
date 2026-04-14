@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 13** — `hannah-portfolio`: Tinker Flywheel: fix body bg seam on overscroll
 **Apr 13** — `hannah-portfolio`: add /baked-by-hannah landing page for QR code networking
 **Apr 13** — `hannah-portfolio`: aislop: tighten iterate-themes line in Tinker flywheel memo
 **Apr 13** — `hannah-portfolio`: Tinker Flywheel: sharpen memo around 89% single-run finding
