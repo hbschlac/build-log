@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 14** — `hannah-portfolio`: fix(reddit-pulse): actually make GitHub PUTs sequential, not parallel
 **Apr 14** — `hannah-portfolio`: content(ldor): populate Prototype section with 4 existing screenshots
 **Apr 14** — `hannah-portfolio`: content(projects): curate Muse screenshots + populate LLM Explainer
 **Apr 14** — `libby-hold-monitor`: gzip+b64 auth secrets to fit GitHub's 48KB cap
