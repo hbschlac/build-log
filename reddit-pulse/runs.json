@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "run_date": "2026-04-14",
+    "day": "Tuesday",
+    "total_new_posts": 11,
+    "cumulative_total": 11,
+    "categories": {
+      "pain_point": 6,
+      "feature_request": 3,
+      "positive": 2,
+      "competitor": 0
+    },
+    "top_tags": [
+      {
+        "tag": "ux",
+        "count": 5
+      },
+      {
+        "tag": "mcp",
+        "count": 2
+      },
+      {
+        "tag": "code_quality",
+        "count": 2
+      },
+      {
+        "tag": "pricing",
+        "count": 1
+      },
+      {
+        "tag": "context_window",
+        "count": 1
+      },
+      {
+        "tag": "docker",
+        "count": 1
+      },
+      {
+        "tag": "auth",
+        "count": 1
+      },
+      {
+        "tag": "regression",
+        "count": 1
+      }
+    ],
+    "new_feature_requests": [
+      "Calling Claude Code tools from Claude App",
+      "Claude code with guardrails and checks",
+      "Get notified when Claude has finished generating with Refined Claude"
+    ],
+    "delta_vs_last": {
+      "pain_point_pct_change": null,
+      "feature_request_pct_change": null,
+      "positive_pct_change": null,
+      "competitor_pct_change": null,
+      "top_emerging_tag": null
+    },
+    "pm_analysis": {
+      "top_priority": {
+        "title": "Guardrails and checkpoints for Claude Code autonomy",
+        "why": [
+          "Users are manually building guardrails (read-only by default, confirm-before-write) because defaults feel unsafe for real codebases",
+          "Pain shows up as reluctance to use Max/API on real apps after past disasters",
+          "Related to code-quality complaints (TDD, line-edits surprise) — trust in agentic behavior is the real axis"
+        ],
+        "metric": "18% of posts this run (2/11) explicitly request guardrail-style controls; adjacent code-quality pain adds another 18%",
+        "roi_estimate": "Medium effort — permission primitives exist, but default-safe mode is a product decision; reduces churn on power users who abandon agentic flows after a bad run",
+        "impact_level": "High",
+        "effort_level": "Medium",
+        "supporting_post_ids": [
+          "1kgbr37",
+          "1khpow7",
+          "1kgnlut"
+        ]
+      },
+      "secondary_priorities": [
+        {
+          "title": "MCP remote/hosted story for Claude.ai (not just Desktop)",
+          "why": [
+            "Users running many MCP servers locally want to port them to Claude.ai integrations via Cloudflare/remote",
+            "Cross-surface tool use (calling Claude Code tools from Claude App) is being hacked around today",
+            "Both posts indicate the local-only story is a dead end for power users"
+          ],
+          "metric": "18% of posts (2/11) concern MCP remoting/cross-surface tool use",
+          "roi_estimate": "High effort — requires hosted MCP runtime and cross-surface auth; unblocks the 'Claude as agent platform' pitch",
+          "impact_level": "High",
+          "effort_level": "High",
+          "supporting_post_ids": [
+            "1kg7wmt",
+            "1kgikmu"
+          ]
+        },
+        {
+          "title": "Pricing transparency on Claude Code usage",
+          "why": [
+            "Users perceiving silent cost creep without clear attribution",
+            "Comment activity (2 comments on short post) suggests shared frustration",
+            "Adjacent: users seek non-API alternatives for terminal use"
+          ],
+          "metric": "9% of posts (1/11) call out rising Claude Code costs; low single-run volume but high sentiment intensity",
+          "roi_estimate": "Low effort — a token-accounting UX surface; prevents the 'I'll switch to X' churn signal",
+          "impact_level": "Medium",
+          "effort_level": "Low",
+          "supporting_post_ids": [
+            "1kgd76g"
+          ]
+        }
+      ]
+    }
+  }
+]
