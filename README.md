@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 13** — `hannah-portfolio`: Tinker Flywheel: tighten theme keywords, align drawer to snapshot
 **Apr 13** — `hannah-portfolio`: Tinker Flywheel: auto-generate snapshot thesis from data
 **Apr 13** — `hannah-portfolio`: Job tracker: inline DM drafts + copy button per contact
 **Apr 13** — `hannah-portfolio`: Add /baked QR landing page for Persona outreach
