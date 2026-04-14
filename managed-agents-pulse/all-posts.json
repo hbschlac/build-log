@@ -1,1 +1,336 @@
-[]
+[
+  {
+    "id": "hn-47693047",
+    "collected_run": "2026-04-13",
+    "title": "Claude Managed Agents",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 169,
+    "num_comments": 86,
+    "url": "https://news.ycombinator.com/item?id=47693047",
+    "selftext_snippet": "Launch post for Claude Managed Agents on Hacker News. 169 points and 86 comments discussing the new fully managed agent harness.",
+    "category": "momentum",
+    "tags": [
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47697641",
+    "collected_run": "2026-04-13",
+    "title": "Claude Managed Agents Overview",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 40,
+    "num_comments": 24,
+    "url": "https://news.ycombinator.com/item?id=47697641",
+    "selftext_snippet": "Overview and explainer of Claude Managed Agents. 40 points with 24 comments discussing the architecture and capabilities.",
+    "category": "momentum",
+    "tags": [
+      "docs",
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47711612",
+    "collected_run": "2026-04-13",
+    "title": "Open Source Alternative to Claude Managed Agents",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 5,
+    "num_comments": 1,
+    "url": "https://news.ycombinator.com/item?id=47711612",
+    "selftext_snippet": "Developer building an open source alternative to Claude Managed Agents, indicating demand for self-hosted agent runtime options.",
+    "category": "use_case",
+    "tags": [
+      "sdk",
+      "deployment"
+    ],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "hn-47723128",
+    "collected_run": "2026-04-13",
+    "title": "EU AI Act compliance layer for Claude Managed Agents (MCP, open source)",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 3,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47723128",
+    "selftext_snippet": "Open source EU AI Act compliance layer built on top of Claude Managed Agents using MCP. Addresses regulatory requirements for enterprise agent deployments.",
+    "category": "use_case",
+    "tags": [
+      "permissions",
+      "mcp"
+    ],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "hn-47713332",
+    "collected_run": "2026-04-13",
+    "title": "Scaling Managed Agents: Decoupling the Brain from the Hands",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 3,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47713332",
+    "selftext_snippet": "Architecture blog post on scaling Managed Agents - separating the reasoning layer from tool execution for better parallelism and reliability.",
+    "category": "momentum",
+    "tags": [
+      "sdk",
+      "deployment"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47716833",
+    "collected_run": "2026-04-13",
+    "title": "Claude Managed Agents Explained, with a Live Build",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 2,
+    "num_comments": 1,
+    "url": "https://news.ycombinator.com/item?id=47716833",
+    "selftext_snippet": "Developer walkthrough of building with Claude Managed Agents, covering the four building blocks and hands-on testing of the API.",
+    "category": "use_case",
+    "tags": [
+      "docs",
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47720841",
+    "collected_run": "2026-04-13",
+    "title": "With Claude Managed Agents, they want to run your AI agents for you",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 2,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47720841",
+    "selftext_snippet": "Coverage of Managed Agents as a fully hosted agent runtime - handling sandboxing, permissions, and state management.",
+    "category": "momentum",
+    "tags": [
+      "deployment",
+      "sandbox"
+    ],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "hn-47694123",
+    "collected_run": "2026-04-13",
+    "title": "Claude Managed Agents in Beta",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 2,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47694123",
+    "selftext_snippet": "Announcement that Claude Managed Agents is available in public beta with the managed-agents-2026-04-01 beta header.",
+    "category": "momentum",
+    "tags": [
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47693508",
+    "collected_run": "2026-04-13",
+    "title": "Launch: Claude Managed Agents",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 2,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47693508",
+    "selftext_snippet": "Launch coverage - a fully managed agent harness for running AI as an autonomous agent.",
+    "category": "momentum",
+    "tags": [
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47743767",
+    "collected_run": "2026-04-13",
+    "title": "Show HN: Posse - A Web UI for Claude Managed Agents",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47743767",
+    "selftext_snippet": "Open source web UI for interacting with Claude Managed Agents. Addresses the lack of a built-in visual interface.",
+    "category": "use_case",
+    "tags": [
+      "sdk",
+      "tool_use"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47703410",
+    "collected_run": "2026-04-13",
+    "title": "I made Claude Managed Agents for all harnesses and models",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47703410",
+    "selftext_snippet": "Developer extended the Managed Agents concept to work with multiple model providers and harness types.",
+    "category": "use_case",
+    "tags": [
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47693685",
+    "collected_run": "2026-04-13",
+    "title": "Managed Agents: everything you need to build and deploy agents at scale",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47693685",
+    "selftext_snippet": "Comprehensive overview covering the full feature set for building and deploying agents at enterprise scale.",
+    "category": "momentum",
+    "tags": [
+      "deployment",
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47742347",
+    "collected_run": "2026-04-13",
+    "title": "Ask HN: We built cloud ops AI 3 years ago. Are managed agents a death sentence?",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 1,
+    "num_comments": 1,
+    "url": "https://news.ycombinator.com/item?id=47742347",
+    "selftext_snippet": "Startup founder asking if the Managed Agents launch threatens their existing cloud ops AI business. Competitive displacement concern.",
+    "category": "friction",
+    "tags": [
+      "pricing",
+      "deployment"
+    ],
+    "sentiment": "negative"
+  },
+  {
+    "id": "hn-47704042",
+    "collected_run": "2026-04-13",
+    "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 3,
+    "num_comments": 1,
+    "url": "https://news.ycombinator.com/item?id=47704042",
+    "selftext_snippet": "Engineering blog on the architecture decisions behind Managed Agents - separating reasoning from execution for better scaling.",
+    "category": "momentum",
+    "tags": [
+      "sdk",
+      "deployment"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47736129",
+    "collected_run": "2026-04-13",
+    "title": "Managed agents API is powerful, but without a UI you are flying blind",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47736129",
+    "selftext_snippet": "Cool tool. The managed agents API is powerful, but without a UI, you are essentially flying blind.",
+    "category": "friction",
+    "tags": [
+      "sdk",
+      "tool_use"
+    ],
+    "sentiment": "negative"
+  },
+  {
+    "id": "hn-47716834",
+    "collected_run": "2026-04-13",
+    "title": "I spent today testing the new Managed Agents release",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47716834",
+    "selftext_snippet": "I spent today testing the new Managed Agents release. The article covers what managed agents are and the four building blocks.",
+    "category": "momentum",
+    "tags": [
+      "docs",
+      "sdk"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "id": "hn-47707530",
+    "collected_run": "2026-04-13",
+    "title": "OpenAI Agents SDK comparison - evaluating Managed Agents as alternative",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47707530",
+    "selftext_snippet": "I have been using the OpenAI Agents SDK for a while now and am largely happy with the abstractions available. Evaluating whether Managed Agents offers enough to switch.",
+    "category": "feature_request",
+    "tags": [
+      "sdk"
+    ],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "hn-47704645",
+    "collected_run": "2026-04-13",
+    "title": "Agent Sandboxes Are So Hot Right Now: 19 Providers Compared",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47704645",
+    "selftext_snippet": "A new agent sandbox startup every day. With Managed Agents launching, felt like good time to build an overview of 19 sandbox providers compared.",
+    "category": "use_case",
+    "tags": [
+      "sandbox"
+    ],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "hn-47694848",
+    "collected_run": "2026-04-13",
+    "title": "AWS-ifying - increasing suite of undifferentiated products",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47694848",
+    "selftext_snippet": "Seem to be AWS-ifying. An increasing suite of products which seem undifferentiated amongst themselves.",
+    "category": "friction",
+    "tags": [
+      "pricing",
+      "sdk"
+    ],
+    "sentiment": "negative"
+  },
+  {
+    "id": "hn-47694675",
+    "collected_run": "2026-04-13",
+    "title": "Is the novelty that all the agents run on their infra?",
+    "subreddit": "hackernews",
+    "source": "hackernews",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://news.ycombinator.com/item?id=47694675",
+    "selftext_snippet": "Is the novelty that all the agents run on their infra? Sort of like a hosted Code environment? Questioning the value proposition of managed infrastructure.",
+    "category": "friction",
+    "tags": [
+      "deployment",
+      "sandbox"
+    ],
+    "sentiment": "neutral"
+  }
+]
