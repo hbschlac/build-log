@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 13** — `hannah-portfolio`: Job tracker: inline DM drafts + copy button per contact
 **Apr 13** — `hannah-portfolio`: Add /baked QR landing page for Persona outreach
 **Apr 13** — `hannah-portfolio`: Tinker Flywheel: rewrite memo copy to kill AI slop
 **Apr 13** — `hannah-portfolio`: Job tracker: allow PROJECT_SLUGS to override the project URL
