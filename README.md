@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 13** — `hannah-portfolio`: Add Cohere Developer Experience — 3-way dev sentiment comparison
 **Apr 13** — `hannah-portfolio`: Fix GitHub SHA race condition — write posts and runs sequentially
 **Apr 13** — `hannah-portfolio`: Neutralize branding — remove Anthropic/Claude from prominent positions
 **Apr 13** — `hannah-portfolio`: Add Managed Agents Pulse — live developer feedback dashboard for Anthropic's Managed Agents API launch
