@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 13** — `hannah-portfolio`: Tinker Flywheel: sharpen memo around 89% single-run finding
 **Apr 13** — `hannah-portfolio`: /baked: simplify to logo-only, text above CTA, cupcake emoji
 **Apr 13** — `hannah-portfolio`: Tinker Flywheel: trim SYNC_SECRET on scrape endpoint
 **Apr 13** — `hannah-portfolio`: Tinker Flywheel: add analyze-only mode to scrape endpoint
