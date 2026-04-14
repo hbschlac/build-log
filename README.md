@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 14** — `libby-hold-monitor`: gzip+b64 auth secrets to fit GitHub's 48KB cap
 **Apr 14** — `libby-hold-monitor`: Offload Playwright from Render to GitHub Actions worker
 **Apr 14** — `muse-shopping`: fix(auth): set trust proxy in Vercel serverless entry too
 **Apr 14** — `muse-shopping`: fix(auth): handle OAuth-only accounts + set trust proxy for Vercel
