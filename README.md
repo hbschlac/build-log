@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 13** — `hannah-portfolio`: Add Managed Agents Pulse — live developer feedback dashboard for Anthropic's Managed Agents API launch
 **Apr 13** — `hannah-portfolio`: Fix job card URL overflow + make legacy notes editable
 **Apr 12** — `hannah-portfolio`: Replace fabricated curated URLs with verified Reddit posts
 **Apr 12** — `hannah-portfolio`: Add live data verification page with spot-check audit
