@@ -1,1 +1,108 @@
-[]
+[
+  {
+    "run_date": "2026-04-13",
+    "day": "Sunday",
+    "total_new_posts": 20,
+    "cumulative_total": 20,
+    "categories": {
+      "momentum": 9,
+      "friction": 4,
+      "use_case": 6,
+      "feature_request": 1
+    },
+    "top_tags": [
+      {
+        "tag": "sdk",
+        "count": 17
+      },
+      {
+        "tag": "deployment",
+        "count": 8
+      },
+      {
+        "tag": "docs",
+        "count": 4
+      },
+      {
+        "tag": "sandbox",
+        "count": 3
+      },
+      {
+        "tag": "pricing",
+        "count": 2
+      },
+      {
+        "tag": "tool_use",
+        "count": 2
+      },
+      {
+        "tag": "permissions",
+        "count": 1
+      },
+      {
+        "tag": "mcp",
+        "count": 1
+      }
+    ],
+    "new_feature_requests": [
+      "OpenAI Agents SDK comparison - evaluating Managed Agents as alternative"
+    ],
+    "delta_vs_last": null,
+    "pm_analysis": {
+      "top_priority": {
+        "title": "No built-in UI - developers flying blind",
+        "why": [
+          "Multiple developers building third-party UIs (Posse) because the API has no visual interface",
+          "Comment explicitly states the API is powerful but without a UI you are flying blind",
+          "This is the #1 friction pattern in week 1 - developers want observability into agent sessions"
+        ],
+        "metric": "3 of 4 friction posts mention lack of UI or observability tools",
+        "roi_estimate": "A first-party agent session viewer would reduce onboarding friction and give Managed Agents a visual selling point vs competing SDKs",
+        "impact_level": "High",
+        "effort_level": "Medium",
+        "supporting_post_ids": [
+          "hn-47736129",
+          "hn-47743767",
+          "hn-47694675"
+        ]
+      },
+      "secondary_priorities": [
+        {
+          "title": "Competitive displacement anxiety from startups",
+          "why": [
+            "Startup founder explicitly asking if Managed Agents is a death sentence for their business",
+            "AWS-ifying criticism suggests developers see bundling too aggressively",
+            "19-provider sandbox comparison triggered by the launch shows competitive landscape is crowded"
+          ],
+          "metric": "2 posts express concern about competing with the ecosystem",
+          "roi_estimate": "Clear partner/ecosystem messaging would reduce developer anxiety and prevent churn of builders who feel threatened",
+          "impact_level": "Medium",
+          "effort_level": "Low",
+          "supporting_post_ids": [
+            "hn-47742347",
+            "hn-47694848",
+            "hn-47704645"
+          ]
+        },
+        {
+          "title": "Strong launch momentum - capitalize on the attention window",
+          "why": [
+            "Main launch post hit 169 points with 86 comments - strong signal for dev tools",
+            "Overview post got 40 points with 24 comments - sustained interest beyond day 1",
+            "Multiple developers already building on top (open source alternatives, compliance layers, UIs)"
+          ],
+          "metric": "45% of posts are momentum/positive - healthy ratio for a week-1 launch",
+          "roi_estimate": "Investing in developer tutorials and content now would capitalize on the attention window before it fades",
+          "impact_level": "High",
+          "effort_level": "Low",
+          "supporting_post_ids": [
+            "hn-47693047",
+            "hn-47697641",
+            "hn-47713332",
+            "hn-47704042"
+          ]
+        }
+      ]
+    }
+  }
+]
