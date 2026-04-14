@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 14** — `muse-shopping`: fix(auth): handle OAuth-only accounts + set trust proxy for Vercel
 **Apr 14** — `hannah-portfolio`: Add branded OG/Twitter share image for /baked-by-hannah
 **Apr 14** — `hannah-portfolio`: Add /tribe-ai gift page + job-tracker artifacts modal
 **Apr 13** — `muse-shopping`: Add Claude session status handoff doc
