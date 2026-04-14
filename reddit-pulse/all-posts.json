@@ -1,1 +1,171 @@
-[]
+[
+  {
+    "id": "1ki7fuz",
+    "title": "Like a horse that's been in a stable all its life, suddenly to be let free to run...",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1ki7fuz",
+    "category": "positive",
+    "tags": [
+      "ux"
+    ],
+    "sentiment": "positive",
+    "selftext_snippet": "I started using Claude for coding around last Summer, and it's been a great help. But as I used it for that purpose, I gradually started having more actual conversations with it. I've always been one to be very curious about the world, the Universe, science, technology, physics... all of that",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1ki4kjy",
+    "title": "How to persists claude code credentials in a docker container?",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1ki4kjy",
+    "category": "pain_point",
+    "tags": [
+      "auth",
+      "docker"
+    ],
+    "sentiment": "negative",
+    "selftext_snippet": "I used the devcontainer in the repo and tried to build my own with persistent storage but I could not make it work. The Dockerfile got pretty messy and I don't fully understand all of it, guess what I used to help me create it?",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1khsqd5",
+    "title": "Anthropic's 'Nicest' AI Has a Dark Upgrade Problem—Here's Why You Should Care",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1khsqd5",
+    "category": "pain_point",
+    "tags": [
+      "regression"
+    ],
+    "sentiment": "negative",
+    "selftext_snippet": "Last week I wrote about how Claude Fights Back. A common genre of response complained that the alignment community could start a panic about the experiment's results regardless of what they were.",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1khpow7",
+    "title": "Claude has a funny concept of TDD",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1khpow7",
+    "category": "pain_point",
+    "tags": [
+      "code_quality"
+    ],
+    "sentiment": "negative",
+    "selftext_snippet": "I thought to vibe an MCP server in the style of Concept7 but with a local database and semantic search for code snippets, so I spec'ed something out roughly, opened Claude Code, asked it to fully plan out the project, then asked it to develop using TDD.",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1khp5pa",
+    "title": "Sonnet Limitations",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1khp5pa",
+    "category": "pain_point",
+    "tags": [
+      "context_window"
+    ],
+    "sentiment": "negative",
+    "selftext_snippet": "So I've been developing a largish SPA. Quite easy with time. Tell Claude what you want to do, get the output, copy, paste, vibe away. You learn to modularise and compartmentalise the code that you are working on so you don't use too much of your context window.",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1kgnlut",
+    "title": "Claude \"LINE EDITS\" code now?",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1kgnlut",
+    "category": "positive",
+    "tags": [
+      "ux",
+      "code_quality"
+    ],
+    "sentiment": "positive",
+    "selftext_snippet": "Is this a new feature? I don't think I've seen this before. I asked it to make some adjustments to the code and rather than doing a completely new document, it opens up the original, then edits the specific line items that need to be changed.",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1kgikmu",
+    "title": "Calling Claude Code tools from Claude App",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1kgikmu",
+    "category": "feature_request",
+    "tags": [
+      "mcp",
+      "ux"
+    ],
+    "sentiment": "neutral",
+    "selftext_snippet": "The documentation has a syntax error, but set it up like this and you can call Claude Code tools from Claude App. So far in my testing there are API charges to 3.5 Haiku for tool use.",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1kgd76g",
+    "title": "Anyone else notice Claude Code getting more expensive?",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 2,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1kgd76g",
+    "category": "pain_point",
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "selftext_snippet": "[removed — post title only]",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1kgbr37",
+    "title": "Claude code with guardrails and checks",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1kgbr37",
+    "category": "feature_request",
+    "tags": [
+      "ux",
+      "code_quality"
+    ],
+    "sentiment": "neutral",
+    "selftext_snippet": "I stupidly let claude code loose on my apps and it was a bit of a disaster when i tried it last time on the API. So now I have got the Max and using it again but with some checks. I only allow reads to continue without my prompting.",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1kg7wmt",
+    "title": "Converting MCP servers to remote Claude.ai integrations via Cloudflare",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1kg7wmt",
+    "category": "pain_point",
+    "tags": [
+      "mcp"
+    ],
+    "sentiment": "negative",
+    "selftext_snippet": "Hey everyone! I've been trying to set up some remote MCP servers for Claude.ai integrations and running into some challenges.",
+    "collected_run": "2026-04-14"
+  },
+  {
+    "id": "1kg7ffc",
+    "title": "Get notified when Claude has finished generating with Refined Claude",
+    "subreddit": "ClaudeAI",
+    "score": 1,
+    "num_comments": 1,
+    "url": "https://reddit.com/r/ClaudeAI/comments/1kg7ffc",
+    "category": "feature_request",
+    "tags": [
+      "ux"
+    ],
+    "sentiment": "positive",
+    "selftext_snippet": "I've been rocking dnakov's claude-mcp extension which lets you run MCP inside Chrome itself, instead of having to run Claude Desktop. MCP in the browser.",
+    "collected_run": "2026-04-14"
+  }
+]
