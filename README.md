@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 13** — `hannah-portfolio`: Tinker Flywheel: rewrite memo copy to kill AI slop
 **Apr 13** — `hannah-portfolio`: Job tracker: allow PROJECT_SLUGS to override the project URL
 **Apr 13** — `hannah-portfolio`: Tinker Flywheel: clickable theme drill + phase/user definitions
 **Apr 13** — `hannah-portfolio`: Add TML 101 — plain-language explainer of Thinking Machines Lab
