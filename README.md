@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 14** — `muse-shopping`: fix(auth): mount errorHandler middleware in Vercel serverless entry
 **Apr 14** — `interior-designer-portfolio`: fix: admin reset password input, bug dropdown expand, status filter, crop math, share button overflow, journal list format, embedded image removal
 **Apr 14** — `hannah-portfolio`: content(kindle-libby): wire in 2 existing screenshots
 **Apr 14** — `hannah-portfolio`: content(claude-wishlist): rewrite copy to match what actually shipped
