@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 16** — `hannah-portfolio`: feat(projects): refresh case study visuals with GIFs + scatter fix
 **Apr 16** — `muse-shopping`: fix(auth): trim Google OAuth env vars at read-site
 **Apr 16** — `muse-shopping`: fix(auth): read backend envelope correctly in frontend API client
 **Apr 14** — `muse-shopping`: fix(auth): mount errorHandler middleware in Vercel serverless entry
