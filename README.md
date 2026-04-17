@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 16** — `muse-shopping`: fix(auth): point Google redirect at www.muse.shopping; remove Apple button
 **Apr 16** — `libby-hold-monitor`: Fix goBack() — redirect to / instead of window.close()
 **Apr 16** — `hannah-portfolio`: feat(projects): refresh case study visuals with GIFs + scatter fix
 **Apr 16** — `muse-shopping`: fix(auth): trim Google OAuth env vars at read-site
