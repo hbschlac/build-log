@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 16** — `hannah-portfolio`: add /claude-code stats page + homepage teaser
 **Apr 16** — `libby-hold-monitor`: Fix popup auto-close + clarify Amazon setup directions
 **Apr 16** — `muse-shopping`: fix(auth): survive missing privacy_consent column on register
 **Apr 16** — `muse-shopping`: debug(auth): include err.message in 500 response body
