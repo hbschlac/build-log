@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 16** — `libby-hold-monitor`: Amazon reauth: stop calling Playwright endpoint that doesn't exist on Render
 **Apr 16** — `hannah-portfolio`: link commits KPI to github.com/hbschlac
 **Apr 16** — `libby-hold-monitor`: Reauth popup: show 'safe to close' page when window.close() is blocked
 **Apr 16** — `hannah-portfolio`: weekly claude-code stats refresh
