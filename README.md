@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 16** — `libby-hold-monitor`: Reauth popup: show 'safe to close' page when window.close() is blocked
 **Apr 16** — `hannah-portfolio`: weekly claude-code stats refresh
 **Apr 16** — `libby-hold-monitor`: Fix popup close: drop opener.reload() that nukes _activePopup ref
 **Apr 16** — `hannah-portfolio`: add /claude-code stats page + homepage teaser
