@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 16** — `libby-hold-monitor`: Amazon reauth: rewrite instructions for non-technical user
 **Apr 16** — `hannah-portfolio`: add claude-code stats social image to public/
 **Apr 16** — `libby-hold-monitor`: Fix JS syntax: Python ate the apostrophe escape in goBack fallback
 **Apr 16** — `hannah-portfolio`: add 'Want to see yours?' section with copy-paste prompt
