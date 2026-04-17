@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 16** — `libby-hold-monitor`: Bump Playwright Page.goto timeouts from 30s to 4min for cold GHA runners
 **Apr 16** — `libby-hold-monitor`: Auto-delivery: dispatch to GHA instead of launching Playwright on Render
 **Apr 16** — `libby-hold-monitor`: Amazon reauth: add copy-path button + Finder Go-To shortcut
 **Apr 16** — `libby-hold-monitor`: Amazon reauth: rewrite instructions for non-technical user
