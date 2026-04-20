@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 20** — `interior-designer-portfolio`: fix: add current-home to NavBar activePage type
 **Apr 16** — `libby-hold-monitor`: Remove auth state JSONs from repo + add to gitignore
 **Apr 16** — `libby-hold-monitor`: Remove auth state JSONs from repo + add to gitignore
 **Apr 16** — `libby-hold-monitor`: Bump Playwright Page.goto timeouts from 30s to 4min for cold GHA runners
