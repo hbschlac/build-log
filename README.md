@@ -7,6 +7,7 @@ Each entry is a thing that either went live, got fixed, or got learned.
 ---
 
 ## 2026
+**Apr 28** — `hannah-portfolio`: Tighten Tinker Flywheel "so what" section
 **Apr 22** — `hannah-portfolio`: Fix job-tracker: checkbox completion and artifact title editing
 **Apr 20** — `interior-designer-portfolio`: fix: add current-home to NavBar activePage type
 **Apr 16** — `libby-hold-monitor`: Remove auth state JSONs from repo + add to gitignore
